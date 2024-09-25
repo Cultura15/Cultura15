@@ -1,4 +1,6 @@
-# 💕 Ssony
+# <h1 align="center">Hi 💕, I'm Ssony</h1>
+
+
 
 **`Programmer (App Developer)`**
 

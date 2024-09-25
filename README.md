@@ -53,10 +53,11 @@
   <a href="https://github.com/Cultura15">
     <img src="https://readme-typing-svg.demolab.com/?lines=Soon%20to%20be%20release%20:))&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
-
-  
 </details>
+
+<br>
+
+---
 
 
 ### 📊 Stats

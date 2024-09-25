@@ -7,7 +7,7 @@
   <a href="https://github.com/Cultura15">
     <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
+<br>
 ---
 
 
@@ -23,7 +23,7 @@
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br>
+<br><br>
 
 ---
 

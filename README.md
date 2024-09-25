@@ -8,9 +8,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
----
-
 <br>
+
+---
 
 ### 🧰 Languages and Tools
 

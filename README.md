@@ -27,7 +27,6 @@
 
 ---
 
-#
 <h3>💻 Software and Tools</h3>
 
   <p>

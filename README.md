@@ -36,21 +36,15 @@
 <br><br>
 
 ---       
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
-          https://raw.githubusercontent.com/Cultura15/vector_icons/b47a934d4b74ebd1c8d17877c80ab0f33f75932f/sublime.svg?token=BLQK3SRFRY4XBUGW6XLM53DG6VDLY
-          
-      
+https://raw.githubusercontent.com/Cultura15/vector_icons/91188705c1a4bf4ff9dafca08a209b5c26d8d5c7/netbeans.svg?token=BLQK3SQ3DJH6SB2NJBQ3MSDG6VDT6
+                
 <h3>💻 Software:</h3>
 
   <p>
       <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
       <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>
       <img align="left" alt="Sublime" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Cultura15/vector_icons/b47a934d4b74ebd1c8d17877c80ab0f33f75932f/sublime.svg?token=BLQK3SRFRY4XBUGW6XLM53DG6VDLY"/>
-      <a href="#"><img alt="NetBeans" src=https://img.shields.io/badge/Eclipse-brown?logo=Eclipse></a>
+      <img align="left" alt="NetBeans" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Cultura15/vector_icons/91188705c1a4bf4ff9dafca08a209b5c26d8d5c7/netbeans.svg?token=BLQK3SQ3DJH6SB2NJBQ3MSDG6VDT6"/>
       <img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
       <img align="left" alt="RStudio" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/>
       <img align="left" alt="Postman" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>

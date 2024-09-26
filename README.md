@@ -41,8 +41,8 @@
 
   <p>
       <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-      <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>
-      <img align="left" alt="Sublime" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Cultura15/vector_icons/b47a934d4b74ebd1c8d17877c80ab0f33f75932f/sublime.svg?token=BLQK3SRFRY4XBUGW6XLM53DG6VDLY"/>
+      <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>
+      <img align="left" alt="Sublime" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Cultura15/vector_icons/e07c3322966803b3acc9c58bd963ce76e3c16c81/sublime.svg?token=BLQK3SXONGFSDK34IOVYQELG6VEEI"/>
       <img align="left" alt="NetBeans" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Cultura15/vector_icons/91188705c1a4bf4ff9dafca08a209b5c26d8d5c7/netbeans.svg?token=BLQK3SQ3DJH6SB2NJBQ3MSDG6VDT6"/>
       <img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
       <img align="left" alt="RStudio" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/>

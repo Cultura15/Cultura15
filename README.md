@@ -36,8 +36,7 @@
 <br><br>
 
 ---       
-https://raw.githubusercontent.com/Cultura15/vector_icons/e07c3322966803b3acc9c58bd963ce76e3c16c81/excel.svg?token=BLQK3SQGRH5P5BIQIURYPATG6VD6I
-                
+
 <h3>💻 Software:</h3>
 
   <p>
@@ -52,9 +51,9 @@ https://raw.githubusercontent.com/Cultura15/vector_icons/e07c3322966803b3acc9c58
       <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"/>
       <img align="left" alt="StackOverflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" />
       <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Cultura15/vector_icons/e07c3322966803b3acc9c58bd963ce76e3c16c81/excel.svg?token=BLQK3SQGRH5P5BIQIURYPATG6VD6I"/>
-      <img align="left" alt="Word" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+      <img align="left" alt="Word" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Cultura15/vector_icons/e07c3322966803b3acc9c58bd963ce76e3c16c81/word.svg?token=BLQK3SSZEOLHA6IJS5AB6PLG6VD6M"/>
       <img align="left" alt="AdobePremiere" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"/>
-      <img align="left" alt="OBS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+      <img align="left" alt="OBS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Cultura15/vector_icons/e07c3322966803b3acc9c58bd963ce76e3c16c81/obs.svg?token=BLQK3SS76WPH5M6IFDC5RATG6VD6K"/>
       
   </p>
   <br>

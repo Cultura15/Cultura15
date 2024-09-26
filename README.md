@@ -2,6 +2,10 @@
 
 <h3 align="center">📍A 3rd year BSIT student aspiring to become a software engineer.</h3>
 
+- 🌱 I’m currently learning **React and Springboot**
+
+- 📫 How to reach me **Mcfreddyjesson@gmail.com**
+
 #
 
 

@@ -1,5 +1,9 @@
 # <h1 align="center">Hi 💕, I'm Ssony</h1>
 
+---
+
+<h3 align="center">📍A 3rd year BSIT student aspiring to become a software engineer.</h3>
+
 
 
 **`Programmer (App Developer | Web Developer | Video Editor)`**

@@ -2,7 +2,7 @@
 
 <h3 align="center">📍A 3rd year BSIT student soon to become a full-stack dev and software engineer.</h3> <br>
 
-- 🌱 I’m currently learning **React and Springboot**
+- 🌱 I’m currently learning **React, Springboot and Django**
 
 - 📫 How to reach me **Mcfreddyjesson@gmail.com**
 

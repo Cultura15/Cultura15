@@ -1,6 +1,6 @@
 <h1 align="center">Hi 💕, I'm Ssony</h1>
 
-<h3 align="center">📍A 3rd year BSIT student soon to become a full-stack dev and software engineer.</h3> <br>
+<h3 align="center">📍A full-stack web and android developer.</h3> <br>
 
 - 🌱 I’m currently learning **React, Springboot and Django**
 

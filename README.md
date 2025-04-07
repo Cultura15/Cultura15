@@ -74,7 +74,7 @@
           <h3 align="center">CanteenApp</h3>
           <p align="center">
             <a href="https://github.com/Cultura15/CanteenApp" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=CanteenApp&theme=tokyonight&hide_border=true" alt="CanteenApp"/>
+              <img src="https://img.shields.io/badge/Status-Done-green?style=for-the-badge&logo=github&logoColor=white" alt="CanteenApp"/>
             </a>
             <p align="center">
               <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -83,10 +83,26 @@
           </p>
         </td>
         <td width="50%">
+          <h3 align="center">Project-ParkTrack</h3>
+          <p align="center">
+            <a href="https://github.com/Cultura15/Project-ParkTrack" target="_blank">
+              <img src="https://img.shields.io/badge/Status-Done-green?style=for-the-badge&logo=github&logoColor=white" alt="Project-ParkTrack"/>
+            </a>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+            </p>
+            <p align="center">
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+            </p>
+          </p>
+        </td>
+        <td width="50%">
           <h3 align="center">CollaborAid</h3>
           <p align="center">
             <a href="https://github.com/Cultura15/IT342-G5-CollaborAid" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=IT342-G5-CollaborAid&theme=tokyonight&hide_border=true" alt="CollaborAid"/>
+              <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=for-the-badge&logo=github&logoColor=white" alt="CollaborAid"/>
             </a>
             <p align="center">
               <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -107,7 +123,7 @@
           <h3 align="center">CyberKids</h3>
           <p align="center">
             <a href="https://github.com/Cultura15/CyberKids" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=CyberKids&theme=tokyonight&hide_border=true" alt="CyberKids"/>
+              <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=for-the-badge&logo=github&logoColor=white" alt="CyberKids"/>
             </a>
             <p align="center">
               <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -117,22 +133,6 @@
             <p align="center">
               <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
               <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-            </p>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">Project-ParkTrack</h3>
-          <p align="center">
-            <a href="https://github.com/Cultura15/Project-ParkTrack" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=Project-ParkTrack&theme=tokyonight&hide_border=true" alt="Project-ParkTrack"/>
-            </a>
-            <p align="center">
-              <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-            </p>
-            <p align="center">
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
             </p>
           </p>
         </td>
@@ -146,6 +146,7 @@
     </a>
   </p>
 </details>
+
 
 
 <br>

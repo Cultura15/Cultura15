@@ -67,31 +67,28 @@
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
 
-  <!-- Repo info cards - using GitHub Readme Stats -->
   <p align="left">
     <a href="https://github.com/Cultura15/CanteenApp">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=CanteenApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="CanteenApp">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=CanteenApp&theme=default" alt="CanteenApp">
     </a>
-    
-  <a href="https://github.com/Cultura15/IT342-G5-CollaborAid">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=IT342-G5-CollaborAid&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="CollaborAid">
+    <a href="https://github.com/Cultura15/IT342-G5-CollaborAid">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=IT342-G5-CollaborAid&theme=default" alt="CollaborAid">
     </a>
-
-   <a href="https://github.com/Cultura15/CyberKids">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=CyberKids&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="CyberKids">
+    <a href="https://github.com/Cultura15/CyberKids">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=CyberKids&theme=default" alt="CyberKids">
     </a>
-
-  <a href="https://github.com/Cultura15/Project-ParkTrack">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=Project-ParkTrack&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Project-ParkTrack">
+    <a href="https://github.com/Cultura15/Project-ParkTrack">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=Project-ParkTrack&theme=default" alt="Project-ParkTrack">
     </a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/Cultura15?tab=repositories&sort=stargazers">
-      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+    <a href="https://github.com/Cultura15?tab=repositories">
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
   </p>
 </details>
+
 
 
 <br>

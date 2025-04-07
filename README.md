@@ -65,30 +65,72 @@
   ---
 
 <details open> 
-  <summary><h2>📘 My Projects</h2></summary>
+  <summary><h2>🚀 My Projects</h2></summary>
 
-  <p align="left">
-    <a href="https://github.com/Cultura15/CanteenApp">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=CanteenApp&theme=default" alt="CanteenApp">
-    </a>
-    <a href="https://github.com/Cultura15/IT342-G5-CollaborAid">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=IT342-G5-CollaborAid&theme=default" alt="CollaborAid">
-    </a>
-    <a href="https://github.com/Cultura15/CyberKids">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=CyberKids&theme=default" alt="CyberKids">
-    </a>
-    <a href="https://github.com/Cultura15/Project-ParkTrack">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=Project-ParkTrack&theme=default" alt="Project-ParkTrack">
-    </a>
-  </p>
+  <div align="center">
+    <table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">CanteenApp</h3>
+          <p align="center">
+            <a href="https://github.com/Cultura15/CanteenApp" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=CanteenApp&theme=tokyonight&hide_border=true" alt="CanteenApp"/>
+            </a>
+            <p align="center">
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">CollaborAid</h3>
+          <p align="center">
+            <a href="https://github.com/Cultura15/IT342-G5-CollaborAid" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=IT342-G5-CollaborAid&theme=tokyonight&hide_border=true" alt="CollaborAid"/>
+            </a>
+            <p align="center">
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+              <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+            </p>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3 align="center">CyberKids</h3>
+          <p align="center">
+            <a href="https://github.com/Cultura15/CyberKids" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=CyberKids&theme=tokyonight&hide_border=true" alt="CyberKids"/>
+            </a>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+              <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Project-ParkTrack</h3>
+          <p align="center">
+            <a href="https://github.com/Cultura15/Project-ParkTrack" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cultura15&repo=Project-ParkTrack&theme=tokyonight&hide_border=true" alt="Project-ParkTrack"/>
+            </a>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+              <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+            </p>
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
 
   <p align="center">
-    <a href="https://github.com/Cultura15?tab=repositories">
-      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo"/>
+    <a href="https://github.com/Cultura15?tab=repositories" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Projects-1F222E?style=for-the-badge&logoColor=white&logo=repo" alt="View All Projects"/>
     </a>
   </p>
 </details>
-
 
 
 <br>

@@ -71,39 +71,27 @@
     <table>
       <tr>
         <td width="50%">
-          <h3 align="center">CanteenApp</h3>
-          <p align="center">
-            <a href="https://github.com/Cultura15/CanteenApp" target="_blank">
-              <img src="https://img.shields.io/badge/Status-Done-green?style=for-the-badge&logo=github&logoColor=white" alt="CanteenApp"/>
-            </a>
+          <div class="project-card">
+            <h3 align="center">CanteenApp</h3>
+            <p align="center">
+              <a href="https://github.com/Cultura15/CanteenApp" target="_blank">
+                <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status: Completed"/>
+              </a>
+            </p>
             <p align="center">
               <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
               <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
             </p>
-          </p>
+          </div>
         </td>
         <td width="50%">
-          <h3 align="center">Project-ParkTrack</h3>
-          <p align="center">
-            <a href="https://github.com/Cultura15/Project-ParkTrack" target="_blank">
-              <img src="https://img.shields.io/badge/Status-Done-green?style=for-the-badge&logo=github&logoColor=white" alt="Project-ParkTrack"/>
-            </a>
+          <div class="project-card">
+            <h3 align="center">CollaborAid</h3>
             <p align="center">
-              <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+              <a href="https://github.com/Cultura15/IT342-G5-CollaborAid" target="_blank">
+                <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=for-the-badge" alt="Status: Ongoing"/>
+              </a>
             </p>
-            <p align="center">
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-            </p>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">CollaborAid</h3>
-          <p align="center">
-            <a href="https://github.com/Cultura15/IT342-G5-CollaborAid" target="_blank">
-              <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=for-the-badge&logo=github&logoColor=white" alt="CollaborAid"/>
-            </a>
             <p align="center">
               <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
               <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -115,16 +103,18 @@
               <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
               <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
             </p>
-          </p>
+          </div>
         </td>
       </tr>
       <tr>
         <td width="50%">
-          <h3 align="center">CyberKids</h3>
-          <p align="center">
-            <a href="https://github.com/Cultura15/CyberKids" target="_blank">
-              <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=for-the-badge&logo=github&logoColor=white" alt="CyberKids"/>
-            </a>
+          <div class="project-card">
+            <h3 align="center">CyberKids</h3>
+            <p align="center">
+              <a href="https://github.com/Cultura15/CyberKids" target="_blank">
+                <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status: Completed"/>
+              </a>
+            </p>
             <p align="center">
               <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
               <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -134,7 +124,25 @@
               <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
               <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
             </p>
-          </p>
+          </div>
+        </td>
+        <td width="50%">
+          <div class="project-card">
+            <h3 align="center">Project-ParkTrack</h3>
+            <p align="center">
+              <a href="https://github.com/Cultura15/Project-ParkTrack" target="_blank">
+                <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=for-the-badge" alt="Status: Ongoing"/>
+              </a>
+            </p>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+            </p>
+            <p align="center">
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+            </p>
+          </div>
         </td>
       </tr>
     </table>
@@ -146,6 +154,54 @@
     </a>
   </p>
 </details>
+
+<!-- Add the CSS for the animated pink border -->
+<style>
+  .project-card {
+    position: relative;
+    padding: 20px;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    z-index: 1;
+  }
+  
+  .project-card::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: conic-gradient(
+      transparent, 
+      transparent, 
+      transparent, 
+      #ff69b4
+    );
+    animation: rotate 4s linear infinite;
+    z-index: -1;
+  }
+  
+  .project-card::after {
+    content: "";
+    position: absolute;
+    inset: 3px;
+    background: white;
+    border-radius: 8px;
+    z-index: -1;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+</style>
 
 
 

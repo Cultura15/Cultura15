@@ -2,7 +2,7 @@
 
 <h3 align="center">📍A full-stack web and android developer.</h3> <br>
 
-- 🌱 I’m currently learning **Vite React, Spring boot and Kotlin**
+- 🌱 I’m currently learning **Vite React, Spring boot, Kotlin and Lua**
 
 - 📫 How to reach me **Mcfreddyjesson@gmail.com**
 

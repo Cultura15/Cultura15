@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Vite React, Spring boot, Kotlin and Lua**
 
-- 💫 Dream career: Cybersecurity Analyst
+- 💫 Dream career: **Cybersecurity Analyst**
 
 - 📫 How to reach me **Mcfreddyjesson@gmail.com**
 

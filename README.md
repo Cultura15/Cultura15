@@ -2,7 +2,7 @@
 
 <h3 align="center">📍A full-stack web and android developer.</h3> <br>
 
-- 🌱 I’m currently learning **React, Springboot and Django**
+- 🌱 I’m currently learning **Vite React, Spring boot and Kotlin**
 
 - 📫 How to reach me **Mcfreddyjesson@gmail.com**
 
@@ -10,7 +10,7 @@
 
 
 
-**`(App Developer | Web Developer | Video Editor)`**
+**`(Web Dev | Mobile Dev | Game Dev)`**
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->

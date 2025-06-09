@@ -36,12 +36,12 @@
 
 <h3 align="left">Backend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=express,fastapi,django,firebase,flask,graphql,nestjs,appwrite,supabase" alt="Cultura">
+<img src="https://skillicons.dev/icons?i=spring,django" alt="Cultura">
 </p>
 
 <h3 align="left">Database:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,dynamodb,postgres,mongo,sqlite,redis" alt="Cultura">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Cultura">
 </p>
 
 <h3 align="left">Tools:</h3>

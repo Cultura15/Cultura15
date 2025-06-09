@@ -31,17 +31,17 @@
 
 <h3 align="left">Frontend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=next,remix,react,vue,nuxt,angular,vite,laravel,astro,tauri" alt="John Albert Layda">
+<img src="https://skillicons.dev/icons?i=next,remix,react,vue,nuxt,angular,vite,laravel,astro,tauri" alt="Cultura">
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=express,fastapi,django,firebase,flask,graphql,nestjs,appwrite,supabase" alt="John">
+<img src="https://skillicons.dev/icons?i=express,fastapi,django,firebase,flask,graphql,nestjs,appwrite,supabase" alt="Cultura">
 </p>
 
 <h3 align="left">Database:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,dynamodb,postgres,mongo,sqlite,redis" alt="Layda">
+<img src="https://skillicons.dev/icons?i=mysql,dynamodb,postgres,mongo,sqlite,redis" alt="Cultura">
 </p>
 
 <h3 align="left">Tools:</h3>

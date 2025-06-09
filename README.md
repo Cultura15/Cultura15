@@ -31,12 +31,12 @@
 
 <h3 align="left">Frontend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=next,react,vite,ktor,flutter" alt="Cultura">
+<img src="https://skillicons.dev/icons?i=react,vite,ktor,flutter" alt="Cultura">
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,django,laravel" alt="Cultura">
+<img src="https://skillicons.dev/icons?i=next,spring,django,laravel" alt="Cultura">
 </p>
 
 <h3 align="left">Database:</h3>

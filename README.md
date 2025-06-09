@@ -1,8 +1,8 @@
 <h1 align="center">Hi 💕, I'm Ssony</h1>
 
-<h3 align="center">📍A full-stack web and android developer.</h3> <br>
+<h3 align="center">📍A Full-stack Web and Android Developer.</h3> <br>
 
-- 🌱 I’m currently learning **Vite React, Spring boot, Kotlin and Lua**
+- 🌱 I’m currently learning **Next, Lua, and Flutter**
 
 - 💫 Dream career: **Cybersecurity Analyst**
 

@@ -41,7 +41,7 @@
 
 <h3 align="left">Database:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongo,firebase" alt="Cultura">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongo,firebase,cassandra" alt="Cultura">
 </p>
 
 <h3 align="left">Tools:</h3>

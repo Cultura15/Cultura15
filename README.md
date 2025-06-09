@@ -46,7 +46,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman,nodejs,npm,yarn,bash,vscode,aws,figma,maven,materialui">
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,linux,anaconda,postman,nodejs,npm,yarn,bash,tailwind,vscode,aws,pr,figma,maven,materialui,stackoverflow,powershell">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cultura15&show_icons=true&locale=en&layout=compact" alt="Cultura" /></p>

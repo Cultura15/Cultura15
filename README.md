@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,go,cpp,html,htmx,css,scss,php,java,rust,py" alt="Cultura15">
+<img src="https://skillicons.dev/icons?i=java,py,php,kotlin,js,ts,lua,html,css" alt="Cultura15">
 </p>
 
 <h3 align="left">Frontend Frameworks:</h3>

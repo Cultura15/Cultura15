@@ -1,6 +1,6 @@
 <h1 align="center">Hi 💕, I'm Ssony</h1>
 
-<h3 align="center">📍A Full-stack Web and Android Developer.</h3> <br>
+<h3 align="center">📍A Full-Stack Web and Mobile Developer.</h3> <br>
 
 - 🌱 I’m currently learning **Next, Lua, and Flutter**
 

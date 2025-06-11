@@ -1,6 +1,7 @@
 <h1 align="center">Hi 💕, I'm Ssony</h1>
 
 <h3 align="center">📍A Full-Stack Web and Mobile Developer.</h3> <br>
+![](https://komarev.com/ghpvc/?username=Cultura15)
 
 - 🌱 I’m currently learning **Next, Lua, and Flutter**
 

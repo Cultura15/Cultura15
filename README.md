@@ -50,7 +50,7 @@
 <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,linux,anaconda,postman,nodejs,npm,yarn,bash,tailwind,vscode,aws,pr,figma,maven,materialui,stackoverflow,powershell">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cultura15&show_icons=true&locale=en&layout=compact" alt="Cultura" /></p>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cultura15&layout=compact&langs_count=8&hide_border=true" alt="Cultura" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cultura15&show_icons=true&locale=en" alt="Cultura" /></p>
 

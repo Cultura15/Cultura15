@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 💫 Dream career: **Cybersecurity Analyst**
+- 💫 Main Language: **Java, Python**
 
 - 📫 How to reach me **Mcfreddyjesson@gmail.com**
 

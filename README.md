@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 💫 Main Language: **Java, Python**
+- 💫 Main Language: **Java, Typescript**
 
 - 📫 How to reach me **Mcfreddyjesson@gmail.com**
 

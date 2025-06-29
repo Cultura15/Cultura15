@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 💫 Main Language: **Java, Typescript**
+- 💫 Main Languages: **Java, Typescript**
+
+- 💫 Main Frameworks: **Spring Boot, React, Next.js**
 
 - 📫 How to reach me **Mcfreddyjesson@gmail.com**
 

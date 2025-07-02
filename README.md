@@ -35,7 +35,7 @@
 
 <h3 align="left">Frontend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,next,flutter" alt="Cultura">
+<img src="https://skillicons.dev/icons?i=next,react,vite,flutter" alt="Cultura">
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>

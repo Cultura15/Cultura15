@@ -48,6 +48,11 @@
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Cultura">
 </p>
 
+<h3 align="left">Game Engine:</h3>
+<p align="left">
+<img align="left" alt="Roblox" width="40px" style="padding-right:5px;" src="https://github.com/user-attachments/assets/c04693fb-42c7-45aa-a3e5-4fd2fb5d00e9" />
+</p>
+
 <h3 align="left">Tools:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=azure,prisma,docker,git,github,githubactions,linux,anaconda,postman,nodejs,npm,yarn,bash,tailwind,vscode,aws,pr,figma,maven,materialui,stackoverflow,powershell">

@@ -45,7 +45,7 @@
 
 <h3 align="left">Database:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=firebase,azure,mysql,sqlite" alt="Cultura">
+<img src="https://skillicons.dev/icons?i=firebase,azure,mysql,aws,sqlite" alt="Cultura">
 </p>
 
 <h3 align="left">Game Engine:</h3>
@@ -55,7 +55,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=prisma,docker,git,github,githubactions,linux,anaconda,postman,nodejs,npm,yarn,bash,tailwind,vscode,aws,pr,figma,maven,materialui,stackoverflow,powershell">
+<img src="https://skillicons.dev/icons?i=prisma,docker,git,github,githubactions,linux,anaconda,postman,nodejs,npm,yarn,bash,tailwind,vscode,pr,figma,maven,materialui,stackoverflow,powershell">
 </p>
 
 <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cultura15&layout=compact&langs_count=8&hide_border=true" alt="Cultura" /></p>

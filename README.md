@@ -30,22 +30,22 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,py,php,c,kotlin,r,js,ts,lua,html,css,dart" alt="Cultura15">
+<img src="https://skillicons.dev/icons?i=java,py,php,c,kotlin,r,js,ts,lua,html,css" alt="Cultura15">
 </p>
 
 <h3 align="left">Frontend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=next,react,vite,flutter" alt="Cultura">
+<img src="https://skillicons.dev/icons?i=next,react,vite" alt="Cultura">
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,django,laravel" alt="Cultura">
+<img src="https://skillicons.dev/icons?i=spring,django" alt="Cultura">
 </p>
 
 <h3 align="left">Database:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongo,firebase,cassandra" alt="Cultura">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Cultura">
 </p>
 
 <h3 align="left">Tools:</h3>

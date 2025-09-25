@@ -10,7 +10,6 @@
 
 - 💫 Main Frameworks: **Spring Boot, React, Next.js**
 
-- 📫 How to reach me **Mcfreddyjesson@gmail.com**
 
 #
 

@@ -2,7 +2,7 @@
 
 I'm a software engineer with a year of experience in building reliable and scalable applications. 
 
-I work primarily in Java and Python, while continuously strengthening my foundations in data structures and algorithms, system design, databases, and distributed systems.
+I work primarily in Java and SQL, while continuously strengthening my foundations in data structures and algorithms, system design, databases, and distributed systems.
 
 Outside coding, I enjoy exploring lifestyle and fashion, staying active, and maintaining a healthy lifestyle.
 

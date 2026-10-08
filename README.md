@@ -1,13 +1,14 @@
 ## Hi, I'm Jesson Chyd 👋
 
-I'm a software engineer with a year of experience in building reliable and scalable applications. 
+I'm a software engineer with 2 years of experience in building scalable applications. 
 
-I work primarily in Java and SQL, while continuously strengthening my foundations in data structures and algorithms, system design, databases, and distributed systems.
+My primary focus is Full Stack Engineering, while continuously strengthening my foundations in dsa, system design, and distributed systems.
 
-Outside coding, I enjoy exploring lifestyle and fashion, staying active, and maintaining a healthy lifestyle.
+Outside coding, I enjoy exploring fashion, travelling, and maintaining a healthy lifestyle.
 
-🎓 Currently strengthening my DSA fundamentals through consistent problem solving. <br>
-🎓 Studying System Design, backend architecture, scalability, caching, and distributed systems.
+🎓 Currently strengthening my DSA and problem-solving.<br>
+🎓 Studying System Design and Software Solutions. <br>
+🎓 Exploring how to leverage AI 100% to build better and more efficient software.
 
 ---
 
